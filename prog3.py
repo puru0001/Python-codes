@@ -1,0 +1,11 @@
+print("Enter the two number =")
+x = input()
+x = int(x)
+y = input()
+y = int(x)
+sum=x+y;
+print("Sum of that two number = ",sum)
+print("Enter number to find the cube:")
+number = input()
+number = int(number)
+print("The cube of the number {} is {}".format(number,number**3))
